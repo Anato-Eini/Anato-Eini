@@ -69,9 +69,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Anato-Eini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=Anato-Eini&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=Anato-Eini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anato-Eini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=Anato-Eini&theme=dark&hide_border=false)<br>
 
 ## 🏆 GitHub Trophies
 
