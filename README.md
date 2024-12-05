@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some school projects<br>🌱 I’m currently learning django(?)<br>💬 Ask me about anything and expect a wrong answer<br>⚡ Fun fact I use arch btw
+🔭 I’m currently working on some school projects<br>🌱 I’m currently learning ASP.NET Web API<br>💬 Ask me about anything and expect a wrong answer<br>⚡ Fun fact I use arch btw
 
 
 # 💻 Tech Stack:
