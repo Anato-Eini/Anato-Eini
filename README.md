@@ -2,7 +2,7 @@
 🔭 I'm currently working on some of my repositories.<br>🌱 I'm currently learning the things that my heart wants.<br>💬 Ask me anything, and expect a wrong answer.<br>⚡ Fun fact: I use Arch, btw.
 
 ### 🪪 DevCard
-<a href="https://app.daily.dev/fleurette"><img src="https://api.daily.dev/devcards/v2/NwtG2YVCq6LcI79fMfpmi.png?type=wide&r=57u" width="652" alt="Fleurette's Dev Card"/></a>
+<a href="https://app.daily.dev/fleurette"><img src="./devcard.png" width="652" alt="Fleurette's Dev Card"/></a>
 
 
 # 🌐 Socials:
