@@ -24,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Anato-Eini&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anato-Eini&icon=7&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Anato-Eini&icon=7&color=4&v=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
