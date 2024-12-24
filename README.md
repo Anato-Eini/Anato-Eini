@@ -2,7 +2,7 @@
 🔭 I'm currently working on some of my repositories.<br>🌱 I'm currently learning the things that my heart wants.<br>💬 Ask me anything, and expect a wrong answer.<br>⚡ Fun fact: I use Arch, btw.
 
 ### 🪪 DevCard
-<a href="https://app.daily.dev/fleurette"><img src="./devcard.png" width="652" alt="Fleurette's Dev Card"/></a>
+<a href="https://app.daily.dev/fleurette"><img src="./devcard.png" alt="Fleurette's Dev Card"/></a>
 
 # 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/anatoeini) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white&style=for-the-badge)](https://quora.com/profile/D-e-s-t-i-n-y-21) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/--Synthesia--) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Anato-Eini) 
