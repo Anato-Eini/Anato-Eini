@@ -23,7 +23,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anato-Eini&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🐥 GitAnimals
+### 🐥 Pets
 <img
   src="https://render.gitanimals.org/farms/Anato-Eini?v=1"
   width="600"
