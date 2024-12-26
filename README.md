@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Anato-Eini&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🐥 GitAnimals
-<a href="https://github.com/devxb/gitanimals">
+<a>
 <img
   src="https://render.gitanimals.org/farms/Anato-Eini"
   width="600"
