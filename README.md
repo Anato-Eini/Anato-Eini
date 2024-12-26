@@ -24,13 +24,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Anato-Eini&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🐥 GitAnimals
-<a>
 <img
-  src="https://render.gitanimals.org/farms/Anato-Eini"
+  src="https://render.gitanimals.org/farms/Anato-Eini?v=1"
   width="600"
   height="300"
 />
-</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anato-Eini&icon=7&color=4&v=1)](https://visitcount.itsvg.in)
