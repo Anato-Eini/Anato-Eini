@@ -31,4 +31,6 @@
 />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anato-Eini&icon=7&color=4&v=1)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=Anato-Eini&icon=7&color=4&v=1)](https://visitcount.itsvg.in)-->
+
+![](https://komarev.com/ghpvc/?username=Anato-Eini&style=for-the-badge&color=3bcdeb)
