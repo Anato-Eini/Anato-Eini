@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=❄️%20Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&descAlign=53&)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5433FF,50:20BDFF,100:A5FECB&text=❄️%20Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&descAlign=53&fontColor=FFFFFF)
 # 💫 About Me:
 
 🔭 I'm currently working on some of my repositories.<br>🌱 I'm currently learning the things that my heart wants.<br>💬 Ask me anything, and expect a wrong answer.<br>⚡ Fun fact: I use Arch, btw.
@@ -100,4 +100,4 @@ Broken site
 
 [![](https://komarev.com/ghpvc/?username=Anato-Eini&style=for-the-badge&color=3bcdeb)](https://komarev.com/ghpvc/?username=Anato-Eini&style=for-the-badge&color=3bcdeb)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&textBg=false&animation=twinkling&section=footer&reversal=false)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5433FF,50:20BDFF,100:A5FECB&textBg=false&animation=twinkling&section=footer&reversal=false)
