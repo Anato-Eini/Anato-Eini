@@ -1,4 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&text=❄️%20Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&descAlign=50&fontColor=FFFFFF&fontAlignY=48)
+
 # 💫 About Me:
 
 🔭 I'm currently working on some of my repositories.<br>🌱 I'm currently learning the things that my heart wants.<br>💬 Ask me anything, and expect a wrong answer.<br>⚡ Fun fact: I use Arch, btw.
@@ -17,7 +18,7 @@
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -90,6 +91,10 @@
   src="https://render.gitanimals.org/farms/Anato-Eini?v=1"
   width="600"
   height="300"
+/>
+
+<img
+  src="https://render.gitanimals.org/guilds/669546667782242005/draw"
 />
 
 ---
