@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&text=❄️%20Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&descAlign=50&fontColor=FFFFFF&fontAlignY=48)
-
-=======
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&text=❄️%20Fleur%20de%20Blue&textBg=false&animation=twinkling&section=header&desc=─────%20⋆⋅%20♰%20⋅⋆%20─────&descAlign=50&fontColor=FFFFFF&fontAlignY=47)
->>>>>>> 3597dd515a8e7c4d81a8a1eb2639b7cdfe84ce40
+
 # 💫 About Me:
 
 🔭 I'm currently working on some of my repositories.<br>🌱 I'm currently learning the things that my heart wants.<br>💬 Ask me anything, and expect a wrong answer.<br>⚡ Fun fact: I use Arch, btw.
@@ -93,8 +89,6 @@
 
 <img
   src="https://render.gitanimals.org/farms/Anato-Eini?v=1"
-  width="600"
-  height="300"
 />
 
 <img
