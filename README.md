@@ -69,10 +69,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Anato-Eini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=Anato-Eini&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=Xylphy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats-five-steel.vercel.app?user=Xylphy&theme=dark&hide_border=false)<br>
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anato-Eini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xylphy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20" 
   height="300"
   />
 
@@ -86,12 +86,12 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Anato-Eini&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Xylphy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🐥 Pets
 
 <img
-  src="https://render.gitanimals.org/farms/Anato-Eini?v=1"
+  src="https://render.gitanimals.org/farms/Xylphy"
 />
 
 <img
@@ -104,6 +104,6 @@
 Broken site
 [![](https://visitcount.itsvg.in/api?id=Anato-Eini&icon=7&color=4&v=1)](https://visitcount.itsvg.in)-->
 
-[![](https://komarev.com/ghpvc/?username=Anato-Eini&style=for-the-badge&color=3bcdeb)](https://komarev.com/ghpvc/?username=Anato-Eini&style=for-the-badge&color=3bcdeb)
+[![](https://komarev.com/ghpvc/?username=Xylphy&style=for-the-badge&color=3bcdeb)](https://komarev.com/ghpvc/?username=Xylphy&style=for-the-badge&color=3bcdeb)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5433FF,50:20BDFF,100:A5FECB&textBg=false&animation=twinkling&section=footer&reversal=false)
